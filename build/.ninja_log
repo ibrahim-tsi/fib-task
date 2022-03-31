@@ -1,0 +1,4 @@
+# ninja log v5
+0	73	6704451278906528	CMakeFiles/fib_task.dir/src/main.cpp.obj	7a99fddf48b40fd1
+14	416	6704451282337457	CMakeFiles/fib_task.dir/src/fibby.cpp.obj	c7fdff2e58eff7a0
+419	537	6704451283528564	fib_task.exe	2a4b50aa1a6e2562

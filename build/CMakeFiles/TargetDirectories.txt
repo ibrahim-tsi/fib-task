@@ -1,0 +1,3 @@
+C:/msys64/home/ic2000/fib-task/build/CMakeFiles/fib_task.dir
+C:/msys64/home/ic2000/fib-task/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/ic2000/fib-task/build/CMakeFiles/rebuild_cache.dir

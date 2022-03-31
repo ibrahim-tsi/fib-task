@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/msys64/home/ic2000/fib-task/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/msys64/home/ic2000/fib-task/src/inc -g -std=gnu++20 -o CMakeFiles\\fib_task.dir\\src\\main.cpp.obj -c C:\\msys64\\home\\ic2000\\fib-task\\src\\main.cpp",
+  "file": "C:\\msys64\\home\\ic2000\\fib-task\\src\\main.cpp"
+},
+{
+  "directory": "C:/msys64/home/ic2000/fib-task/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/msys64/home/ic2000/fib-task/src/inc -g -std=gnu++20 -o CMakeFiles\\fib_task.dir\\src\\fibby.cpp.obj -c C:\\msys64\\home\\ic2000\\fib-task\\src\\fibby.cpp",
+  "file": "C:\\msys64\\home\\ic2000\\fib-task\\src\\fibby.cpp"
+}
+]
